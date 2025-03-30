@@ -1,1 +1,1 @@
-This is an implementation of the DCOM.
+This is the t-SNE visulization of the original features and learned latent factors.
