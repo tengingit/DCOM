@@ -26,7 +26,7 @@ For example, to perform 10-fold cross validation on tabular datasets such as *So
 python DAEMDC_ci.py -dataset Song
 ```
 
-To perform 10-fold cross validation on image datasets such as *DeepFashion*:
+To perform DCOM on image datasets such as *DeepFashion*:
 
 ```
 python DAEMDC_ci_img_pretrained.py -dataset DeepFashion
